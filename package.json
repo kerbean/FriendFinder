@@ -1,0 +1,30 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "App for finding friends online",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerbean/FriendFinder.git"
+  },
+  "keywords": [
+    "friend"
+  ],
+  "author": "Kervin Del Rosario",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kerbean/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/kerbean/FriendFinder#readme"
+}
